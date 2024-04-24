@@ -1,17 +1,51 @@
 div{
-    background-color: antiquewhite;
+    background-color:#032730;
+    text-align: center;
+    color: rgb(239, 245, 245);
+}
+body{
+    background-color:#032730;
+    text-align: center;
+    color: rgb(239, 245, 245);
 }
 
 img{
     width: 200px;
-
+    border-color: white;
 }
 
 #background-color{
-    background-color: azure;
+    background-color:#032730;
+    margin: 10px;
 
+  
 }
 
 footer{
-    background-color: black; color: white;
+    background-color: #aed2db; color:rgb(5, 92, 92);
+    border: none;
+    padding: 10px;
+    margin-left: -100px;
+    margin-right: -100px;
+    margin-bottom: -100px;
+
+}
+ul{
+    list-style: none;
+}
+.buttons{
+    background-color: #ade8f4;
+    color: #032730;
+    border: none;
+    border-radius: 6%;
+    padding: 10px;
+}
+button{
+    background-color: #032730;
+    color: white;
+    list-style: none;
+    border: none;
+    border-radius: 4%;
+    padding: 10px;
+    margin-bottom: 3px;
 }
